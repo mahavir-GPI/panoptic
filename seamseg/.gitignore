@@ -68,10 +68,6 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-
-# weights
-seamseg_r50_vistas.zip
-
 # pyenv
 .python-version
 
@@ -105,10 +101,3 @@ venv.bak/
 
 # other
 .idea/
-ignore_test.txt
-#seamseg/
-#inplace_abn/
-seamseg_r50_vistas.tar
-seamseg_r50_vistas.zip
-metadata.bin
-config.ini
