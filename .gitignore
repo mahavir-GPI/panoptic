@@ -68,6 +68,10 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+
+# weights
+seamseg_r50_vistas.zip
+
 # pyenv
 .python-version
 
