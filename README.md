@@ -1,3 +1,5 @@
+This repository is based on work of https://github.com/mapillary/seamseg
+
 # Seamless Scene Segmentation
 
 <p align="center">
@@ -15,16 +17,7 @@ Network with contextual information conveyed by a light-weight DeepLab-like modu
 
 This repository currently contains training and evaluation code for Seamless Scene Segmentation in PyTorch, based on our re-implementation of Mask R-CNN. 
 
-If you use Seamless Scene Segmentation in your research, please cite:
-```bibtex
-@InProceedings{Porzi_2019_CVPR,
-  author = {Porzi, Lorenzo and Rota Bul\`o, Samuel and Colovic, Aleksander and Kontschieder, Peter},
-  title = {Seamless Scene Segmentation},
-  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-  month = {June},
-  year = {2019}
-}
-```
+
 
 ## Requirements and setup
 
