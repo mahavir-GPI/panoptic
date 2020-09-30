@@ -106,5 +106,9 @@ venv.bak/
 # other
 .idea/
 ignore_test.txt
-seamseg/
-inplace_abn/
+#seamseg/
+#inplace_abn/
+seamseg_r50_vistas.tar/
+seamseg_r50_vistas.zip/
+metadata.bin/
+config.ini/
