@@ -1,1 +1,1 @@
-# panoptic
+# Readme for panoptic segmentation
